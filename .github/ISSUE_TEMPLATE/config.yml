@@ -1,0 +1,10 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Support Server
+    url: https://discord.aether-mc.net
+    about: Please ask and answer questions here.
+    
+  - name: Website
+    url: https://aether-mc.net
+    about: Check out information on our website.
+    
